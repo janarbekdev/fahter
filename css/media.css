@@ -207,8 +207,8 @@
         width: 220px;
     }
     .button{
-        d
-        display: ;
+
+        display:flex ;
         flex-flow: wrap;
     }
     /*.footer {*/
